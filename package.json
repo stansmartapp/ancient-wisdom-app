@@ -1,0 +1,33 @@
+{
+  "name": "ancient-wisdom-app",
+  "version": "1.0.0",
+  "description": "A beautiful, mobile-first spiritual fortune telling app",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 3000",
+    "serve": "npx serve .",
+    "dev": "python3 -m http.server 8080"
+  },
+  "keywords": [
+    "spiritual",
+    "fortune-telling",
+    "mobile-app",
+    "pwa",
+    "personality-reading",
+    "ancient-wisdom"
+  ],
+  "author": "Ancient Wisdom Team",
+  "license": "MIT",
+  "homepage": "https://wzlmrynv.manus.space",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/FortuneTellerAI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/FortuneTellerAI/issues"
+  },
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
+

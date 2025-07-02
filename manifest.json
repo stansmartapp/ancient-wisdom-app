@@ -1,0 +1,23 @@
+{
+  "name": "FortuneTellerAI - Soul Journey",
+  "short_name": "FortuneTellerAI",
+  "description": "Discover your spiritual personality through AI-powered readings",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5e6d3",
+  "theme_color": "#D4AF37",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "appbackground.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["lifestyle", "entertainment", "spirituality"],
+  "lang": "en",
+  "scope": "/",
+  "prefer_related_applications": false
+}
+
